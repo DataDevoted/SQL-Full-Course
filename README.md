@@ -32,61 +32,7 @@ To download a copy of the FUll Notes :
 * [**The MySQL dump command**](ebook/en/content/100-mysqldump.md)
 * [**Conclusion**](ebook/en/content/999-conclusion.md)
 
-## 🌟 Sponsors
 
-Thanks to these fantastic companies that made this book possible!
-
-### 📊 Materialize
-
-The Streaming Database for Real-time Analytics.
-
-[Materialize](https://materialize.com/) is a reactive database that delivers incremental view updates. Materialize helps developers easily build with streaming data using standard SQL.
-
-### 💙 DigitalOcean
-
-DigitalOcean is a cloud services platform delivering the simplicity developers love and businesses trust to run production applications at scale.
-
-It provides highly available, secure, and scalable compute, storage, and networking solutions that help developers build great software faster.
-
-Founded in 2012 with offices in New York and Cambridge, MA, DigitalOcean offers transparent and affordable pricing, an elegant user interface, and one of the largest libraries of open source resources available.
-
-For more information, please visit [https://www.digitalocean.com](https://www.digitalocean.com) or follow [@digitalocean](https://twitter.com/digitalocean) on Twitter.
-
-If you are new to DigitalOcean, you can get a free $100 credit and spin up your own servers via this referral link provided below:
-
-[Free $100 Credit For DigitalOcean](https://m.do.co/c/2a9bba940f39)
-
-### 👩‍💻 DevDojo
-
-The DevDojo is a resource to learn all things related to web development and web design. Learn while on your lunch break or wake up and enjoy a cup of coffee with us to learn something new.
-
-Join this developer community, and we can all learn together, build together, and grow together.
-
-[Join DevDojo](https://devdojo.com?ref=bobbyiliev)
-
-For more information, please visit [https://www.devdojo.com](https://www.devdojo.com?ref=bobbyiliev) or follow [@thedevdojo](https://twitter.com/thedevdojo) on Twitter.
-
-## 🕸️ Web Page
-
-A web page showcasing the eBook:
-
-[Introduction to SQL](https://sql.bobby.sh)
-
-The web page was built using [Tails](http://devdojo.com/tails), a new `kick-ass` drag-and-drop TailwindCSS page builder!
-
-### DigitalOcean App Platform
-
-This will be hosted on the [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/).
-
-We will utilize the ["Deploy to DigitalOcean" Button](https://www.digitalocean.com/docs/app-platform/how-to/add-deploy-do-button) to deploy to the App Platform:
-
-[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/bobbyiliev/introduction-to-sql/tree/main)
-
-## 📹 Mini Video Course
-
-Coming soon
-
-## 💻 Interactive training
 
 You can follow the interactive training online here:
 
