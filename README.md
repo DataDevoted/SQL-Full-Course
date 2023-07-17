@@ -8,7 +8,7 @@ This SQL guide that will help you to learn the basics of SQL and start using rel
 
 To download a copy of the FUll Notes :
 
-* [Link]([https://github.com/bobbyiliev/introduction-to-sql/raw/main/ebook/en/export/introduction-to-sql-light.pdf](https://github.com/DataDevoted/SQL-Full-Course/blob/main/ebook/Introduction%20To%20SQL.pdf))
+* [Link](https://github.com/DataDevoted/SQL-Full-Course/blob/main/ebook/Introduction%20To%20SQL.pdf)
 
 ## 📘 Chapters
 
