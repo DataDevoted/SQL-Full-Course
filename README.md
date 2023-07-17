@@ -6,7 +6,7 @@ This SQL guide that will help you to learn the basics of SQL and start using rel
 
 ## 🚀 Download
 
-To download a copy of the FUll Notes :
+To download a copy of the FULL Notes :
 
 * [Link](https://github.com/DataDevoted/SQL-Full-Course/blob/main/ebook/Introduction%20To%20SQL.pdf)
 
