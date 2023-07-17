@@ -1,16 +1,6 @@
 
 
-<div align="center">
-    <p>
-	    <a name="stars"><img src="https://img.shields.io/github/stars/bobbyiliev/introduction-to-sql?style=for-the-badge"></a>
-	    <a name="forks"><img src="https://img.shields.io/github/forks/bobbyiliev/introduction-to-sql?logoColor=green&style=for-the-badge"></a>
-	    <a name="contributions"><img src="https://img.shields.io/github/contributors/bobbyiliev/introduction-to-sql?logoColor=green&style=for-the-badge"></a>
-	    <a name="madeWith"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"></a>
-	    <a name="license"><img src="https://img.shields.io/github/license/bobbyiliev/introduction-to-sql?style=for-the-badge"></a>
-    </p>
-</div>
-
-## 💡 Introduction to SQL
+## 💡 SQL Full Course
 
 This is an open-source introduction to SQL guide that will help you to learn the basics of SQL and start using relational databases for your SysOps, DevOps, and Dev projects. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you will most likely have to use SQL at some point in your career.
 
