@@ -4,8 +4,6 @@
 
 This SQL guide that will help you to learn the basics of SQL and start using relational databases,you will most likely have to use SQL at some point in your career.
 
-The guide is suitable for anyone working as a developer, system administrator, or a DevOps engineer and wants to learn the basics of SQL.
-
 ## 🚀 Download
 
 To download a copy of the FUll Notes :
