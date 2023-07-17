@@ -8,11 +8,9 @@ The guide is suitable for anyone working as a developer, system administrator, o
 
 ## 🚀 Download
 
-To download a copy of the ebook use one of the following links:
+To download a copy of the FUll Notes :
 
-* [Dark mode](https://github.com/bobbyiliev/introduction-to-sql/raw/main/ebook/en/export/introduction-to-sql-dark.pdf)
-
-* [Light mode](https://github.com/bobbyiliev/introduction-to-sql/raw/main/ebook/en/export/introduction-to-sql-light.pdf)
+* [Link](https://github.com/bobbyiliev/introduction-to-sql/raw/main/ebook/en/export/introduction-to-sql-light.pdf)
 
 ## 📘 Chapters
 
